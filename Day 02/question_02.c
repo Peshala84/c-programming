@@ -1,7 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
-    int a=1;
+int main()
+{
+    int a = 1;
 
     printf("\n a) %d", a);
     printf("\n b) %d", a++);
@@ -12,6 +13,6 @@ int main(){
     printf("\n g) %d", a);
     printf("\n h) %d", --a);
     printf("\n i) %d", a);
-    
+
     return 0;
 }

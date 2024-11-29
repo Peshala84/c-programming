@@ -1,6 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
+int main()
+{
     printf("\"Hello\" \n what are you doing\? \n \'my first day\' \n ");
     return 0;
 }
